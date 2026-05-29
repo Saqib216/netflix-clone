@@ -5,7 +5,7 @@
     margin: 0;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -321,22 +321,22 @@ div.small2 {
     }
 }
 
-@media screen and (max-width: 525px){
-    #second{
+@media screen and (max-width: 525px) {
+    #second {
         min-width: 30vw;
     }
 
-    .btn3{
+    .btn3 {
         padding: 10px 26px;
         font-size: 22px;
     }
 
-    .grid{
+    .grid {
         grid-template-columns: 1fr 1fr;
     }
 }
 
-@media screen and (max-width: 300px ){
+@media screen and (max-width: 300px) {
     .main .flextop {
         flex-direction: column;
         align-items: center;
