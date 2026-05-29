@@ -5,6 +5,10 @@
     margin: 0;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .main {
     min-height: 90vh;
     width: 100%;
