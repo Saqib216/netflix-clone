@@ -206,7 +206,7 @@ netflix-clone/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/Saqib216/netflix-clone.git
    cd netflix-clone
    ```
 
