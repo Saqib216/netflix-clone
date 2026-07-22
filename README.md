@@ -4,7 +4,7 @@ A Netflix-inspired landing page built with vanilla HTML and CSS. Features a mode
 
 ## 🎬 Live Demo
 
-Visit: [saqib-flix.netlify.app](https://saqib-flix.netlify.app)
+Visit: [clone-flix-liard.vercel.app](https://clone-flix-liard.vercel.app/)
 
 ## 📋 Project Overview
 
@@ -51,7 +51,7 @@ This is a static Netflix clone landing page that replicates Netflix's premium UI
 - **Icons:** Custom SVG graphics
 - **Assets:** Banner image, favicon
 - **Responsive:** Mobile-first design with multiple media queries
-- **Hosting:** Netlify
+- **Hosting:** Vercel
 
 ---
 
@@ -298,28 +298,6 @@ body { background-color: black; overflow-x: hidden; }
 5. **Grid Layout** — Responsive design without frameworks
 6. **Accessibility** — Sufficient color contrast, readable font sizes
 7. **Smooth Transitions** — 0.5s ease-out creates premium feel
-
----
-
-## 🚀 Next Steps to Deploy
-
-1. **Push to GitHub:**
-   ```bash
-   git add .
-   git commit -m "Initial Netflix clone commit"
-   git push origin main
-   ```
-
-2. **Deploy on Netlify:**
-   - Sign in to netlify.com
-   - Click "New site from Git"
-   - Select your GitHub repo
-   - Deploy (takes 1-2 minutes)
-
-3. **Share Your Link:**
-   - Copy your Netlify URL
-   - Add to Instagram bio
-   - Share with portfolio employers
 
 ---
 
