@@ -2,9 +2,9 @@
 
 A Netflix-inspired landing page built with vanilla HTML and CSS. Features a modern dark-themed design with hero section, feature cards, FAQ section, and responsive layout optimized for all devices.
 
-## 🎬 Live Demo
+## 🎬 View Source Code
 
-Visit: [clone-flix-liard.vercel.app](https://clone-flix-liard.vercel.app/)
+Visit: [github.com/Saqib216/netflix-clone](https://github.com/Saqib216/netflix-clone)
 
 ## 📋 Project Overview
 
@@ -331,7 +331,7 @@ Building this project teaches you:
 ## 📧 Contact
 
 - **GitHub:** [github.com/Saqib216](https://github.com/Saqib216)
-- **Portfolio:** [saqib-portfo.netlify.app](https://saqib-portfo.netlify.app)
+- **Portfolio:** [saqib-portfo.netlify.app](https://saqib-hussnain.vercel.app)
 - **Instagram:** [@itx.saqib.hussnain](https://instagram.com/itx.saqib.hussnain)
 - **LinkedIn:** [@saqib-hussnain](https://linkedin.com/in/saqib-hussnain)
 
