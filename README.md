@@ -365,6 +365,6 @@ This project is open source and available for educational and personal use. Netf
 
 ---
 
-**Made with ❤️ by Saqib Hussnain**
+**Made with ❤️ by Muhammad Saqib Hussnain**
 
 *A project to master HTML5, CSS3, responsive design, and modern web development patterns.*
